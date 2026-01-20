@@ -1,0 +1,1 @@
+# EmulatorFarm OpenAPI Specification
